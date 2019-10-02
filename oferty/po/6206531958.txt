@@ -1,0 +1,94 @@
+{
+  "id": "6206531958",
+  "name": "Pasta do zębów colgate",
+  "category": {
+    "id": "257765"
+  },
+  "parameters": [
+    {
+      "id": "207094",
+      "valuesIds": [
+        "207094_230146"
+      ],
+      "values": []
+    },
+    {
+      "id": "207158",
+      "valuesIds": [
+        "207158_8192",
+        "207158_16384"
+      ],
+      "values": []
+    },
+    {
+      "id": "129569",
+      "valuesIds": [
+        "129569_1"
+      ],
+      "values": []
+    },
+    {
+      "id": "207166",
+      "valuesIds": [
+        "207166_8"
+      ],
+      "values": []
+    }
+  ],
+  "ean": "9005800243306",
+  "description": {
+    "sections": [
+      {
+        "items": [
+          {
+            "type": "TEXT",
+            "content": "\u003cp\u003etesttest\u003c/p\u003e"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [],
+  "sellingMode": {
+    "format": "BUY_NOW",
+    "price": {
+      "amount": "15",
+      "currency": "PLN"
+    }
+  },
+  "stock": {
+    "available": 16.0,
+    "unit": "UNIT"
+  },
+  "publication": {
+    "status": "ACTIVE",
+     "republish": true
+  },
+  "delivery": {
+    "handlingTime": "PT48H"
+  },
+  "payments": {
+    "invoice": "VAT"
+  },
+  "afterSalesServices": {},
+  "promotion": {
+    "emphasized": false,
+    "bold": false,
+    "highlight": false,
+    "departmentPage": false,
+    "emphasizedHighlightBoldPackage": false
+  },
+  "location": {
+    "countryCode": "PL",
+    "province": "WIELKOPOLSKIE",
+    "city": "KĂłrnik",
+    "postCode": "62-035"
+  },
+  "attachments": [],
+  "validation": {
+    "errors": [],
+    "validatedAt": "2019-08-27T13:12:22.516Z"
+  },
+  "createdAt": "2019-08-19T20:23:27Z",
+  "updatedAt": "2019-08-27T13:12:26.833Z"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "6206531757",
+  "name": "Płyn do płukania",
+  "category": {
+    "id": "257770"
+  },
+  "parameters": [],
+  "ean": "5011417548554",
+  "description": {
+    "sections": [
+      {
+        "items": [
+          {
+            "type": "TEXT",
+            "content": "\u003cp\u003eTestowy\u003c/p\u003e"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://a.allegroimg.allegrosandbox.pl/original/031cbb/f553b4ce411194501a27fb987283"
+    }
+  ],
+  "sellingMode": {
+    "format": "BUY_NOW",
+    "price": {
+      "amount": "30",
+      "currency": "PLN"
+    }
+  },
+  "stock": {
+    "available": 19.0,
+    "unit": "UNIT"
+  },
+  "publication": {
+    "status": "ACTIVE",
+     "republish": true
+  },
+  "delivery": {
+    "handlingTime": "PT48H"
+  },
+  "payments": {
+    "invoice": "VAT"
+  },
+  "afterSalesServices": {},
+  "promotion": {
+    "emphasized": false,
+    "bold": false,
+    "highlight": false,
+    "departmentPage": false,
+    "emphasizedHighlightBoldPackage": false
+  },
+  "location": {
+    "countryCode": "PL",
+    "province": "WIELKOPOLSKIE",
+    "city": "KĂłrnik",
+    "postCode": "62-035"
+  },
+  "attachments": [],
+  "validation": {
+    "errors": [],
+    "validatedAt": "2019-08-27T13:12:33.224Z"
+  },
+  "createdAt": "2019-08-19T13:14:26Z",
+  "updatedAt": "2019-08-27T13:12:37.16Z"
+}

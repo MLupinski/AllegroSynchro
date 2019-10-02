@@ -1,0 +1,80 @@
+{
+  "id": "6206531697",
+  "name": "Fairy Platinum xxx",
+  "category": {
+    "id": "128"
+  },
+  "parameters": [
+    {
+      "id": "11323",
+      "valuesIds": [
+        "11323_1"
+      ],
+      "values": []
+    }
+  ],
+  "ean": "8001090891181",
+  "description": {
+    "sections": [
+      {
+        "items": [
+          {
+            "type": "IMAGE",
+            "url": "https://a.allegroimg.allegrosandbox.pl/original/03e70a/d98d0d1f471aa53f882ae9353075"
+          },
+          {
+            "type": "TEXT",
+            "content": "\u003cp\u003eOpis testowy\u003c/p\u003e"
+          }
+        ]
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://a.allegroimg.allegrosandbox.pl/original/03e70a/d98d0d1f471aa53f882ae9353075"
+    }
+  ],
+  "sellingMode": {
+    "format": "BUY_NOW",
+    "price": {
+      "amount": "99",
+      "currency": "PLN"
+    }
+  },
+  "stock": {
+    "available": 9,
+    "unit": "UNIT"
+  },
+  "publication": {
+    "status": "ACTIVE",
+    "republish": false
+  },
+  "delivery": {
+    "handlingTime": "PT24H"
+  },
+  "payments": {
+    "invoice": "VAT"
+  },
+  "afterSalesServices": {},
+  "promotion": {
+    "emphasized": false,
+    "bold": false,
+    "highlight": false,
+    "departmentPage": false,
+    "emphasizedHighlightBoldPackage": false
+  },
+  "location": {
+    "countryCode": "PL",
+    "province": "WIELKOPOLSKIE",
+    "city": "KĂłrnik",
+    "postCode": "62-035"
+  },
+  "attachments": [],
+  "validation": {
+    "errors": [],
+    "validatedAt": "2019-08-27T13:12:43.873Z"
+  },
+  "createdAt": "2019-08-19T12:06:30Z",
+  "updatedAt": "2019-08-27T13:12:47.932Z"
+}

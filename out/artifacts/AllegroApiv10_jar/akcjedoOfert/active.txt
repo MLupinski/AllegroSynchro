@@ -1,0 +1,15 @@
+{
+  "offerCriteria": [
+    {
+      "offers": [
+        {
+          "id": "6206269517"
+        }
+      ],
+      "type": "CONTAINS_OFFERS"
+    }
+  ],
+  "publication": {
+    "action": "ACTIVATE"
+  }
+}
